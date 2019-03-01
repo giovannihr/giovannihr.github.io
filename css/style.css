@@ -16,6 +16,11 @@ li {
   opacity: 0.5;
 }
 
+.storybooks,
+.devconnector {
+  opacity: 0.25;
+}
+
 .fa-check-circle {
   color: lightgreen;
 }
