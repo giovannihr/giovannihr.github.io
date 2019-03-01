@@ -8,6 +8,26 @@ body {
   color: #5a5a5a;
 }
 
+li {
+  list-style: none;
+}
+
+.technologies {
+  opacity: 0.5;
+}
+
+.fa-check-circle {
+  color: lightgreen;
+}
+
+.fa-hammer {
+  color: skyblue;
+}
+
+.fa-optin-monster {
+  color: salmon;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
@@ -15,6 +35,12 @@ body {
 .carousel {
   margin-bottom: 4rem;
 }
+
+.profile {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -42,6 +68,11 @@ body {
   margin-bottom: 1.5rem;
   text-align: center;
 }
+
+.profile .col-lg-12 {
+  text-align: center;
+}
+
 .marketing h2 {
   font-weight: 400;
 }
