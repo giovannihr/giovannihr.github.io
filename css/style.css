@@ -16,7 +16,10 @@ li {
   opacity: 0.5;
 }
 
-.storybooks,
+.storybooks {
+  opacity: 0.25;
+}
+
 .devconnector {
   opacity: 0.25;
 }
